@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/myShell_w_pipe.dir/main.c.o -o myShell_w_pipe 

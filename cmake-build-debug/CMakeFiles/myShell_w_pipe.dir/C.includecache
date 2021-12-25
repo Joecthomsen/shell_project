@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johannes/opgaver/assignment_1/myShell_w_pipe/asciiart.h
+
+/home/johannes/opgaver/assignment_1/myShell_w_pipe/commands.h
+
+/home/johannes/opgaver/assignment_1/myShell_w_pipe/main.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+stdlib.h
+-
+wait.h
+-
+asciiart.h
+/home/johannes/opgaver/assignment_1/myShell_w_pipe/asciiart.h
+commands.h
+/home/johannes/opgaver/assignment_1/myShell_w_pipe/commands.h
+
